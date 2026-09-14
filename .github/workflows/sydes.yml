@@ -1,3 +1,4 @@
+# rerun-marker: verify test-discovery-scope fix
 name: Sydes
 
 # Sydes runs as an independent PR check alongside the repository's existing
